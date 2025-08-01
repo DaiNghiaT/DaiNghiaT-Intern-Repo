@@ -1,0 +1,9 @@
+**What do you hope to learn from this Internship** Primarily, I am looking forward to learning the in-and-outs of working at a Business, on how to be a great team member in communications.
+
+**What skills are you looking to develop?** As a Social Media Strategist intern, I look forward to developing my hard skills such as content creation and data analytics. On the other hand, I believe this opportuntiy will allow me to further develop my soft skills such as cross-team collaboration and communications.
+
+**What do you think you can contribute to the team?** I believe I can bring fresh perspectives to the team, and the ability to "read between the lines" to look for intangibles that may be able to help explain the results, and I'm confident in my skills to deliver synergy to the workplace and empower others, being able to "fit in" has always been a skill of mine.
+
+**What is one area you feel less confident in that you’d like to improve?** I'd really like to strengthen my data analytics and reporting skills. While I'm comfortable tracking basic metrics like likes and follows on my personal accounts, I know there's so much more depth to social media analytics - Understanding attribution, calculating ROI, and identifying patterns & intangibles that actually drive business results.
+
+**What does success in this internship look like for you?** For me, success in this internship means I've provided value to the team during my time here, I was able to establish professional connections alongside by peers and superiors and strengthening of the skills priorly mentioned.
