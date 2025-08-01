@@ -2,7 +2,7 @@
 
 **What skills are you looking to develop?** As a Social Media Strategist intern, I look forward to developing my hard skills such as content creation and data analytics. On the other hand, I believe this opportuntiy will allow me to further develop my soft skills such as cross-team collaboration and communications.
 
-**What do you think you can contribute to the team?** I believe I can bring fresh perspectives to the team, and the ability to "read between the lines" to look for intangibles that may be able to help explain the results, and I'm confident in my skills to deliver synergy to the workplace and empower others, being able to "fit in" has always been a skill of mine.
+**What do you think you can contribute to the team?** I believe I can bring fresh perspectives to the team, and the ability to "read between the lines" to look for intangibles that may be able to help explain the results, and I'm confident in my skills to deliver synergy to the workplace and empower others, being able to "fit in" has always been a skill of mine. I also believe I can bring in the perspective for the Asian community, this sector is studied to be underdiagnosed due to cultural and socio factors - loss of prior authorative structure is what I observed to be one of the most damaging factors to my fellow peers' daily life here in Australia.
 
 **What is one area you feel less confident in that you’d like to improve?** I'd really like to strengthen my data analytics and reporting skills. While I'm comfortable tracking basic metrics like likes and follows on my personal accounts, I know there's so much more depth to social media analytics - Understanding attribution, calculating ROI, and identifying patterns & intangibles that actually drive business results.
 
