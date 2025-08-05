@@ -1,3 +1,5 @@
+**My Role** I'm interning as a Social Media Strategist, I will be working remote on the Tuesdays and is available in-person on the Fridays each week. I'll be interning for 15 working days.
+
 **What do you need from teammates to do your best work? (e.g., direct communication, flexibility, detailed instructions, minimal interruptions)** I work best with clear, direct communication about expectations and deadlines, plus context on why we're doing something so I can contribute strategically. I appreciate respect for focused work time while staying available for collaboration and support when needed.
 
 **How do you prefer to communicate? (e.g., async messages, video calls, quick check-ins, long discussions)** I prefer async messages for updates and non-urgent matters, but quick video calls for complex discussions where tone matters. I like using written communication for clarity and face-to-face conversations for brainstorming and building rapport.
