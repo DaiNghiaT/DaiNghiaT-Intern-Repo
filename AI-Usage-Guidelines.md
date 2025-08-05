@@ -1,0 +1,5 @@
+**When should you use AI for assistance, and when should you rely on your own skills?** I'll use AI for efficiency tasks and let it do the heavy lifting - content drafts, scheduling, data analysis, and brainstorming. I'll rely on my own skills for strategic thinking, relationship building, and sensitive communications, Focus Bear's branding - as I believe AI cannot communicate our brand's unique voice and personality the way I can. AI can assist, but I make the final decisions.
+
+**How can you avoid over-reliance on AI while still benefiting from it?** I aim to use AI tools as a starting point, not the endpoint. I'll always add my creativity and strategic thinking to AI outputs, never publish without reviewing, and maintain "human-only" tasks to keep developing my core skills.
+
+**What steps will you take to ensure data privacy when using AI tools?** I'm implementing a strict "no sensitive data" policy - no senstive/confidential info, proprietary strategies, or personal data in AI tools. I'll treat every AI input as public information and only use company-approved tools. If I wouldn't put it on a billboard, it doesn't go into AI.
