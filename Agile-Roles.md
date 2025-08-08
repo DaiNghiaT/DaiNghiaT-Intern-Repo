@@ -6,4 +6,4 @@
 
 **Write a short description of how your role fits into the Agile team.** I gather real-time user feedback from social platforms and translate it into actionable insights that drive our Kanban board priorities, making sure we're building what our ADHD/autism community actually needs rather than just what we think they want.
 
-**Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.** I frequently collaborate with the Product Manager since I provide user feedback that informs product decisions. To improve our teamwork, I aim to categorize feedbacks by priority (urgent vs nice-to-have), and ask for regular check-ins to understand upcoming features so I can gather more targeted user feedback.
+**Identify one other role you frequently collaborate with and describe how you can improve teamwork with them.** I frequently collaborate with the Product Manager since I provide user feedback that informs product decisions. To improve our teamwork, I aim to categorize feedbacks by priority (urgent vs wishlist), and ask for regular check-ins to understand upcoming features so I can gather more targeted user feedback.
