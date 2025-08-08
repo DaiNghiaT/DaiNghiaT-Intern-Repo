@@ -1,0 +1,3 @@
+**What is your role, and how does it contribute to the Agile process?** As a Social Media Strategist intern, I create content for our neurodivergent community, monitor engagement, and gather user feedback from social media platforms. I contribute to our Kanban process by providing real-time user insights that help our product team understand what features are working and what pain points users are experiencing.
+
+**How do your responsibilities overlap or interact with other roles in the team?** I collect user feedback from social media and share it with everyone on the team. I tell developers about bugs users find, give the Product Manager ideas about what users want and update our Project Manager on what's urgent.
