@@ -1,0 +1,3 @@
+**How do Agile ceremonies help with communication and alignment?** Agile ceremonies such as daily standup meetings forces the team on the right path to project completion by ensuring everyone knows what others are working on and can quickly identify blockers, while retrospectives create space to discuss what's working and what needs improvement. These regular check-ins prevent miscommunication and ensure we're all moving toward the same goals.
+
+**Which ceremony do you think is most important for your role, and why?** I think regular team check-ins or standup meetings, those would be most important for my role. These meetings help me understand what's moving through our board and what's been completed so I can create timely social content about new features.
