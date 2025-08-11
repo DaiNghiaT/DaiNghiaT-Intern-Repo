@@ -1,3 +1,9 @@
 **How do Agile ceremonies help with communication and alignment?** Agile ceremonies such as daily standup meetings forces the team on the right path to project completion by ensuring everyone knows what others are working on and can quickly identify blockers, while retrospectives create space to discuss what's working and what needs improvement. These regular check-ins prevent miscommunication and ensure we're all moving toward the same goals.
 
 **Which ceremony do you think is most important for your role, and why?** I think regular team check-ins or standup meetings, those would be most important for my role. These meetings help me understand what's moving through our board and what's been completed so I can create timely social content about new features.
+
+**Details of a stand-up you attended** On August 8th, 9AM-9:15AM, I attended a stand-up meeting with Andrea and the rest of the marketing team. We discussed workload distribution between the interns, and I was assigned the responsibility of writing blog posts for the team.
+
+**Details of a retrospective or notes you read (key points, what you learned)** During our team discussions and feedback sessions, a key insight emerged that blog posts require authentic human experience to effectively connect with readers. This means that while AI tools can assist with research and structure, the personal anecdotes, genuine insights, and relatable experiences that make content engaging must come from real human perspectives.
+
+**One specific change YOU can make to improve collaboration (with an example)** I can improve collaboration by being more proactive in sharing progress updates and potential barriers before our standup meetings. For example, instead of waiting for the next stand-up to mention if I'm struggling with a blog post topic or need clarification on brand guidelines, I can send a quick email or reach out to the discord when issues arise.
