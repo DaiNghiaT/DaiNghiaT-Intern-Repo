@@ -8,12 +8,14 @@
 
 **Focus Bear Improvment Suggestion** Context-based blocking - Instead of one blocklist for all situations, implement context-based blocking that adapts based on the type of work session (Creative work/Admin work/Research), example: Admin work would block everything except email and work tools.
 
+**Research**: I read "My ADHD Story: A Deeply Personal Experience" by Amy Sng from UnlockingADHD (https://www.unlockingadhd.com/my-adhd-story-a-deeply-personal-experience/). One key insight that resonated was: "As much as I excelled in reading and seeking and learning, I always struggled with getting things done... I could read, I could understand, but when I held pencil to paper, nothing would happen."
+
 **Example Respone** 
-Hey (User's Name),
+Hey Amy!,
 
 You're not alone in this struggle, and it's not a reflection of your worth. Executive functioning is genuinely difficult so you're not lazy or broken.
 
-**Try starting impossibly small**: instead of "clean my room," try "put one item away." Success helps build momentum.
+**Try starting impossibly small**: instead of "write a ," try "put one item away." Success helps build momentum.
 
 **Work with your brain, not against it**: notice when you feel most capable and tackle important tasks then. Use visual reminders and break everything into tiny steps.
 
