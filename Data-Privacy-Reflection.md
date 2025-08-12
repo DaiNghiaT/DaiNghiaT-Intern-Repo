@@ -3,3 +3,9 @@
 **How should you store, share, and dispose of sensitive information safely?** The best way I believe is to store all sensitive data within our approved company systems with encryption and never save customer information to my personal devices or cloud accounts. When sharing data, I'll verify the recipient's idenity and their legitimate needs. For disposal, I'll follow our data retention policies by securely deleting files when no longer needed and properly shredding any paper documentation containing personal information.
 
 **What are some common mistakes that lead to data privacy issues, and how can they be avoided?** As a Focus Bear intern, I'll aim to avoid privacy mistakes by double-checking email recipients, never discussing customer data publicly, logging out of shared computers, avoiding personal cloud storage for work, and escalating concerns to the appropriate superior instead of guessing.
+
+**Takeaway from Focus Bear privacy policies**  Focus Bear's AI Privacy Policy states "Users are advised not to put any identifiable information in their habit titles", when using AI features. This prevents personal data from being inadvertently shared with OpenAI during personalized messaging.
+
+**Personal example/scenario at Focus Bear:** If I receive a customer inquiry about account information, I would verify their identity by asking for account details only the legitimate user would know (registered email, subscription date) before accessing any data. I'd escalate unusual requests to my supervisor rather than guessing.
+
+**Specific security measure implemented:** I've enabled two-factor authentication on my work Google email using Google Authenticator. This requires both my password and a 6-digit phone code to access Gmail, Drive, and other work systems.
